@@ -80,24 +80,37 @@
 <!-- END RIGHT ART TRIAL -->
 <text x="26" y="91" class="mono label">02  /  ART PANE</text>
 <text x="26" y="121" class="mono sub">[ ASCII ART / CHARACTER ]</text>
-<!-- Identity: whoami -->
+<!-- Identity -->
 <text x="410" y="101"
       font-family="ui-monospace,Consolas,monospace"
       font-size="15">
   <tspan fill="#8fbf26">$</tspan>
   <tspan fill="#9699a1" font-size="14"> whoami</tspan>
+  <tspan dx="11" fill="#777777" font-size="14">→</tspan>
+  <tspan dx="12"
+         font-family="Georgia, 'Times New Roman', serif"
+         font-size="17.5"
+         font-style="italic"
+         fill="#ddd6cb">consigliere</tspan>
 </text>
-<text x="410" y="132"
-      font-family="Georgia, 'Times New Roman', serif"
-      font-size="17.5"
-      font-style="italic"
-      fill="#ddd6cb">consigliere</text>
-<!-- Consigliere's philosophy -->
-<text x="410" y="149"
-      font-family="Georgia, 'Times New Roman', serif"
-      font-size="12"
-      font-style="italic"
-      fill="#555555">There is always another way.</text>
+
+<!-- Interests -->
+<text x="410" y="150"
+      font-family="ui-monospace,Consolas,monospace"
+      font-size="14">
+  <tspan fill="#8fbf26">$</tspan>
+  <tspan fill="#9699a1"> cat interests.txt</tspan>
+</text>
+<g font-family="ui-monospace,Consolas,monospace"
+   font-size="12.5"
+   fill="#929298">
+  <text x="410" y="177">Red Teaming</text>
+  <text x="410" y="197">Reverse Engineering</text>
+  <text x="410" y="217">AI Systems</text>
+  <text x="410" y="237">Electronics</text>
+  <text x="410" y="257">Computational Neuroscience</text>
+  <text x="410" y="277">Quantum Computing</text>
+</g>
 <text x="26" y="492" class="mono label">04  /  STATUS STRIP</text>
 <text x="762" y="492" class="mono sub">[ PENDING ]</text>
 </svg>
