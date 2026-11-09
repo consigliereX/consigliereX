@@ -6,8 +6,8 @@
   .label{font-size:13px;font-weight:500;letter-spacing:2px;fill:#a1a2a8}
   .sub{font-size:15px;fill:#6e717b}
 </style>
-<rect width="1000" height="520" fill="#08090c"/>
-<rect x="1" y="1" width="998" height="518" rx="13" fill="#101115" stroke="#41434b" stroke-width="1.5"/>
+<rect width="1000" height="520" fill="#000000"/>
+<rect x="1" y="1" width="998" height="518" rx="13" fill="#000000" stroke="#41434b" stroke-width="1.5"/>
 <!-- Layout boundaries: header 9%, main 79%, status 12%; main 38/62 split -->
 <path d="M1 47.8 H999 M1 458.6 H999 M380 47.8 V458.6" stroke="#41434b" stroke-width="1.5" fill="none"/>
 <!-- header is deliberately undecided; no window-control style chosen -->
