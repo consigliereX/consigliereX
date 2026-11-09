@@ -80,8 +80,15 @@
 <!-- END RIGHT ART TRIAL -->
 <text x="26" y="91" class="mono label">02  /  ART PANE</text>
 <text x="26" y="121" class="mono sub">[ ASCII ART / CHARACTER ]</text>
-<text x="410" y="91" class="mono label">03  /  IDENTITY PANE</text>
-<text x="410" y="121" class="mono sub">[ NAME / INTRODUCTION / MESSAGE ]</text>
+<!-- Identity: The Aristocrat -->
+<text x="410" y="120"
+      font-family="Georgia, 'Times New Roman', serif"
+      font-size="35"
+      font-style="italic"
+      fill="#ddd6cb">the consigliere.</text>
+<path d="M410 139 H488"
+      stroke="#897c6f"
+      stroke-width=".7"/>
 <text x="26" y="492" class="mono label">04  /  STATUS STRIP</text>
 <text x="762" y="492" class="mono sub">[ PENDING ]</text>
 </svg>
