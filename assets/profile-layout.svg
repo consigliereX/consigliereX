@@ -47,7 +47,7 @@
     <stop offset="1" stop-color="#8797ac" stop-opacity="0"/>
   </radialGradient>
 </defs>
-<g clip-path="url(#rMonolithPane)" opacity="0.5">
+<g clip-path="url(#rMonolithPane)" opacity="0.3">
   <ellipse cx="698" cy="270" rx="211" ry="194" fill="url(#rMonoHalo)"/>
   <ellipse cx="695" cy="400" rx="126" ry="20" fill="url(#rMonoShadow)"/>
   <g fill="none" stroke="#4f5e6d">
