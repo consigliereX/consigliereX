@@ -140,6 +140,13 @@
         stroke-width="2.8"
         stroke-linecap="round"/>
 </g>
+<!-- Medical disclaimer -->
+<g font-family="ui-monospace,Consolas,monospace"
+   font-size="11">
+  <text x="723" y="207" fill="#b5b5bc">medical disclaimer:</text>
+  <text x="723" y="227" fill="#85858e">unsupervised. too many tabs open.</text>
+  <text x="723" y="247" fill="#85858e">curiosity levels: concerning.</text>
+</g>
 <text x="26" y="492" class="mono label">04  /  STATUS STRIP</text>
 <text x="762" y="492" class="mono sub">[ PENDING ]</text>
 </svg>
