@@ -85,7 +85,7 @@
       font-family="ui-monospace,Consolas,monospace"
       font-size="15">
   <tspan fill="#8fbf26">$</tspan>
-  <tspan fill="#d6d6db"> whoami</tspan>
+  <tspan fill="#9699a1" font-size="14"> whoami</tspan>
 </text>
 <text x="410" y="132"
       font-family="Georgia, 'Times New Roman', serif"
