@@ -102,14 +102,43 @@
   <tspan fill="#9699a1"> cat interests.txt</tspan>
 </text>
 <g font-family="ui-monospace,Consolas,monospace"
-   font-size="12.5"
-   fill="#929298">
-  <text x="410" y="177">Red Teaming</text>
-  <text x="410" y="197">Reverse Engineering</text>
-  <text x="410" y="217">AI Systems</text>
-  <text x="410" y="237">Electronics</text>
-  <text x="410" y="257">Computational Neuroscience</text>
-  <text x="410" y="277">Quantum Computing</text>
+   font-size="12.5">
+  <text x="425" y="177">
+    <tspan fill="#6f737c">›</tspan>
+    <tspan dx="8" fill="#929298">breaking things (legally)</tspan>
+  </text>
+  <text x="425" y="197">
+    <tspan fill="#6f737c">›</tspan>
+    <tspan dx="8" fill="#929298">taking things apart</tspan>
+  </text>
+  <text x="425" y="217">
+    <tspan fill="#6f737c">›</tspan>
+    <tspan dx="8" fill="#929298">teaching machines tricks</tspan>
+  </text>
+  <text x="425" y="237">
+    <tspan fill="#6f737c">›</tspan>
+    <tspan dx="8" fill="#929298">wires &amp; occasional sparks</tspan>
+  </text>
+  <text x="425" y="257">
+    <tspan fill="#6f737c">›</tspan>
+    <tspan dx="8" fill="#929298">figuring out the brain</tspan>
+  </text>
+  <text x="425" y="277">
+    <tspan fill="#6f737c">›</tspan>
+    <tspan dx="8" fill="#929298">a little quantum madness</tspan>
+  </text>
+  <!-- Single right curly brace -->
+  <path d="M667 165
+           C687 165 687 183 687 198
+           L687 210
+           C687 222 680 227 670 227
+           C680 227 687 232 687 244
+           L687 257
+           C687 273 687 289 667 289"
+        fill="none"
+        stroke="#555860"
+        stroke-width="1.2"
+        stroke-linecap="round"/>
 </g>
 <text x="26" y="492" class="mono label">04  /  STATUS STRIP</text>
 <text x="762" y="492" class="mono sub">[ PENDING ]</text>
