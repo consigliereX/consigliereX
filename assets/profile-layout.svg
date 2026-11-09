@@ -80,14 +80,18 @@
 <!-- END RIGHT ART TRIAL -->
 <text x="26" y="91" class="mono label">02  /  ART PANE</text>
 <text x="26" y="121" class="mono sub">[ ASCII ART / CHARACTER ]</text>
-<!-- Identity: Terminal -->
-<text x="410" y="113"
+<!-- Identity: whoami -->
+<text x="410" y="101"
       font-family="ui-monospace,Consolas,monospace"
-      font-size="17.5">
-  <tspan fill="#92949c">$ whoami</tspan>
-  <tspan fill="#8fbf26"> → </tspan>
-  <tspan fill="#ddd6cb">consigliere</tspan>
+      font-size="15">
+  <tspan fill="#8fbf26">$</tspan>
+  <tspan fill="#d6d6db"> whoami</tspan>
 </text>
+<text x="410" y="132"
+      font-family="Georgia, 'Times New Roman', serif"
+      font-size="17.5"
+      font-style="italic"
+      fill="#ddd6cb">consigliere</text>
 <text x="26" y="492" class="mono label">04  /  STATUS STRIP</text>
 <text x="762" y="492" class="mono sub">[ PENDING ]</text>
 </svg>
