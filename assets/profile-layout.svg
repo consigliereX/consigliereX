@@ -92,6 +92,12 @@
       font-size="17.5"
       font-style="italic"
       fill="#ddd6cb">consigliere</text>
+<!-- Consigliere's philosophy -->
+<text x="410" y="149"
+      font-family="Georgia, 'Times New Roman', serif"
+      font-size="12"
+      font-style="italic"
+      fill="#555555">There is always another way.</text>
 <text x="26" y="492" class="mono label">04  /  STATUS STRIP</text>
 <text x="762" y="492" class="mono sub">[ PENDING ]</text>
 </svg>
