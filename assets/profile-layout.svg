@@ -12,10 +12,10 @@
 <path d="M1 47.8 H999 M1 458.6 H999 M380 47.8 V458.6" stroke="#41434b" stroke-width="1.5" fill="none"/>
 <!-- header is deliberately undecided; no window-control style chosen -->
 <!-- header prompt -->
-<text x="28" y="22" class="mono" font-size="18" fill="#6ee7f2">~</text>
+<text x="28" y="22" class="mono" font-size="14" fill="#6ee7f2">consigliere@arch ~</text>
 <text x="28" y="39" class="mono" font-size="18" fill="#8fbf26">❯</text>
 <text x="52" y="39" class="mono" font-size="15" fill="#d6d6db">fastfetch</text>
-<text x="875" y="29" class="mono" font-size="15" fill="#7a7d86">11:46</text>
+<text x="971" y="29" text-anchor="end" class="mono" font-size="12" fill="#7a7d86">[ LOCAL SESSION ]</text>
 
 <!-- RIGHT ART TRIAL: floating monolith -->
 <defs>
