@@ -179,6 +179,10 @@
   <text x="425" y="369">the family? just me and a few AI associates.</text>
   <text x="425" y="389">we're not incorporated. we're just curious.</text>
 </g>
-<text x="26" y="492" class="mono label">04  /  STATUS STRIP</text>
-<text x="762" y="492" class="mono sub">[ PENDING ]</text>
+<text x="26" y="492" class="mono" font-size="12.5">
+  <tspan fill="#8fbf26">●</tspan>
+  <tspan fill="#a1a2a8"> STATUS: EXPERIMENTING</tspan>
+</text>
+<text x="971" y="492" text-anchor="end"
+      class="mono" font-size="12" fill="#929298">[ STABILITY NOT GUARANTEED ]</text>
 </svg>
