@@ -167,6 +167,18 @@
   <text x="723" y="227" fill="#ffffff">unsupervised. too many tabs open.</text>
   <text x="723" y="247" fill="#ffffff">curiosity levels: concerning.</text>
 </g>
+<!-- Family declaration -->
+<text x="410" y="342"
+      font-family="ui-monospace,Consolas,monospace"
+      font-size="14">
+  <tspan fill="#8fbf26">$</tspan>
+  <tspan fill="#9699a1"> echo "$FAMILY"</tspan>
+</text>
+<g font-family="ui-monospace,Consolas,monospace"
+   font-size="12.5" fill="#b8b8bc">
+  <text x="425" y="369">the family? just me and a few AI associates.</text>
+  <text x="425" y="389">we're not incorporated. we're just curious.</text>
+</g>
 <text x="26" y="492" class="mono label">04  /  STATUS STRIP</text>
 <text x="762" y="492" class="mono sub">[ PENDING ]</text>
 </svg>
