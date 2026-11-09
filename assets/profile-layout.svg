@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="1000" height="520" role="img" aria-labelledby="title desc">
+<title id="title">Silencio GitHub profile — four-section terminal layout</title>
+<desc id="desc">A dark terminal frame with a slim header, artwork pane on the left, identity pane on the right, and a footer status strip. Text is temporary and the sections are intentionally empty.</desc>
+<style>
+  .mono{font-family:ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace}
+  .label{font-size:13px;font-weight:500;letter-spacing:2px;fill:#a1a2a8}
+  .sub{font-size:15px;fill:#6e717b}
+</style>
+<rect width="1000" height="520" fill="#08090c"/>
+<rect x="1" y="1" width="998" height="518" rx="13" fill="#101115" stroke="#41434b" stroke-width="1.5"/>
+<!-- Layout boundaries: header 9%, main 79%, status 12%; main 38/62 split -->
+<path d="M1 47.8 H999 M1 458.6 H999 M380 47.8 V458.6" stroke="#41434b" stroke-width="1.5" fill="none"/>
+<!-- header is deliberately undecided; no window-control style chosen -->
+<text x="26" y="29" class="mono label">01  /  TERMINAL HEADER</text>
+<text x="26" y="91" class="mono label">02  /  ART PANE</text>
+<text x="26" y="121" class="mono sub">[ ASCII ART / CHARACTER ]</text>
+<text x="410" y="91" class="mono label">03  /  IDENTITY PANE</text>
+<text x="410" y="121" class="mono sub">[ NAME / INTRODUCTION / MESSAGE ]</text>
+<text x="26" y="492" class="mono label">04  /  STATUS STRIP</text>
+<text x="762" y="492" class="mono sub">[ PENDING ]</text>
+</svg>

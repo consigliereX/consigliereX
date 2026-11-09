@@ -1,7 +1,3 @@
-```console
-┌──[silent@recon]─[~/unknown]
-└─$ scan --focus security intelligence systems
-```
-
->*“He who has a why to live can bear almost any how.”*  
->`— Friedrich Nietzsche`
+<div align="center">
+  <img src="assets/profile-layout.svg" alt="Dark four-section terminal layout: header, left artwork pane, right identity pane, bottom status strip" width="100%" />
+</div>
