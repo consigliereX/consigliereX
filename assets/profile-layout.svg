@@ -129,15 +129,15 @@
   </text>
   <!-- Single right curly brace -->
   <path d="M667 165
-           C687 165 687 183 687 198
-           L687 210
-           C687 222 680 227 670 227
-           C680 227 687 232 687 244
-           L687 257
-           C687 273 687 289 667 289"
+           C689 165 688 181 688 196
+           L688 206
+           C688 218 695 225 706 227
+           C695 229 688 236 688 248
+           L688 258
+           C688 274 689 289 667 289"
         fill="none"
-        stroke="#555860"
-        stroke-width="1.2"
+        stroke="#c5c8d0"
+        stroke-width="2.8"
         stroke-linecap="round"/>
 </g>
 <text x="26" y="492" class="mono label">04  /  STATUS STRIP</text>
